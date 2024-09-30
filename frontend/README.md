@@ -1,16 +1,10 @@
-# PlayTube Frontend (YouTube + Twitter)
+# VdeoMate Frontend 
 
 ## Overview
 
-``PlayTube (YOUTUBE + TWITTER)`` is a project designed that have functionality of a video hosting platform similar to YouTube and micro-blogging feature similar to twitter. This project's backend is built using Node.js, Express.js, React.js, MongoDB, and incorporates various other technologies to ensure a robust and system. The project aims to provide a complete features for a video hosting website, featuring essential functionalities such as user authentication, video uploading, liking, disliking, commenting, subscribing/unsubscribing, admin panel, watch history, liked videos etc.It includes features that utilizing standard practices such as JWT, bcrypt, access tokens, and refresh tokens for security. Find more about his project in the documentation below.
+``VideoMate `` is a project designed that have functionality of a video hosting platform similar to YouTube and micro-blogging feature similar to twitter. This project's backend is built using Node.js, Express.js, React.js, MongoDB, and incorporates various other technologies to ensure a robust and system. The project aims to provide a complete features for a video hosting website, featuring essential functionalities such as user authentication, video uploading, liking, disliking, commenting, subscribing/unsubscribing, admin panel, watch history, liked videos etc.It includes features that utilizing standard practices such as JWT, bcrypt, access tokens, and refresh tokens for security. Find more about his project in the documentation below.
 
-## Important links
 
-| Content              | Link                                                                        |
-| ---------------------|-----------------------------------------------------------------------------|
-| Live Link            | [click here](https://playtube-by-yashpz.vercel.app)                         |
-| API Documentation    | [click here](https://documenter.getpostman.com/view/32807699/2sA3XPChSM)    |
-| Model                | [click here ](https://app.eraser.io/workspace/cATefMPkrAdzR9c6teox?origin=share) |
 
 ## Features
 
@@ -81,13 +75,13 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Yash-Zanzarukiya/PlayTube-Frontend.git
+    git clone https://github.com/Vansh-Garg118/Video-Mate.git
     ```
 
 2. **Install dependencies:**
 
     ```bash
-    cd PlayTube-Frontend
+    cd frontend
     npm install
     ```
 
