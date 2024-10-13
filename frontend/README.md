@@ -1,4 +1,4 @@
-# VdeoMate Frontend 
+# VideoMate Frontend 
 
 ## Overview
 
